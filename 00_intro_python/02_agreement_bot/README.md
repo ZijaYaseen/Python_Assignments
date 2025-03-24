@@ -10,7 +10,7 @@ What's your favorite animal? cow
 
 My favorite animal is also cow!
 
-## Starter Code
+## Solution Code
 
 ```python
 def main():
